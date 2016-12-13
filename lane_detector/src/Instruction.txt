@@ -1,0 +1,15 @@
+Commands to run the code
+
+catkin_make
+
+source ~/IIITD_Internship/SwaRath/SwaRath/SwaRath_lane_detector/devel/setup.bash
+
+
+
+
+1) rosrun lane_detector publisher <Path to the folder where we have the images>
+
+
+2) rosrun lane_detector subscriber --show --save-lanes --wait=50
+
+   rosrun lane_detector subscriber --show --wait=50

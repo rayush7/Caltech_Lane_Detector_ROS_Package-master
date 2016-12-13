@@ -1,0 +1,11 @@
+geometry_msgs/Point32 P1
+geometry_msgs/Point32 P2
+geometry_msgs/Point32 P3
+geometry_msgs/Point32 P4
+geometry_msgs/Point32 P5
+geometry_msgs/Point32 P6
+geometry_msgs/Point32 P7
+geometry_msgs/Point32 P8
+std_msgs/Time timestamp
+std_msgs/Float32 time_to_cut_left
+std_msgs/Float32 time_to_cut_right
